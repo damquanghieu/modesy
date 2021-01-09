@@ -1,0 +1,4 @@
+"name","slug","parent_id","description","keywords","category_order"
+"Clothing","clothing","0","Category Clothing","category, clothing","1"
+"Shoes","shoes","0","Category Shoes","category, shoes","2"
+"Women's Clothing","","1","Category Women's Clothing","category, womens, clothing","3"
